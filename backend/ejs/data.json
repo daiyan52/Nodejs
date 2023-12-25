@@ -1,0 +1,57 @@
+{
+    "salmanKhan":{
+        "name":"Salman Khan",
+        "followers":"100M",
+        "followings":"10",
+        "posts":[
+            {
+                "image": "https://c.ndtvimg.com/2020-07/4edjkcs8_salman-khan-_625x300_14_July_20.jpg",
+                "likes": "1.5M",
+                "comments":"100k"
+            },
+            {
+                "image": "https://pbs.twimg.com/media/FJi95IfacAISCPs.jpg:large",
+                 "likes": "1.5M",
+                "comments":"100k"
+            },
+            {
+                "image": "https://filmfare.wwmindia.com/content/2023/may/salmankhan11683114119.jpg",
+                "likes": "2.5M",
+                "comments":"200k"
+            },
+            {
+                "image": "https://filmfare.wwmindia.com/content/2023/may/salmankhan11683114119.jpg",
+                "likes": "1.5M",
+                "comments":"100k"
+            }
+        
+        ]
+    },
+    "ShahrukhKhan":{
+        "name":"Shahrukh Khan",
+        "followers":"140M",
+        "followings":"100",
+        "posts":[
+            {
+                "image": "https://c.ndtvimg.com/2020-07/4edjkcs8_salman-khan-_625x300_14_July_20.jpg",
+                "likes": "1.5M",
+                "comments":"100k"
+            },
+            {
+                "image": "https://pbs.twimg.com/media/FJi95IfacAISCPs.jpg:large",
+                 "likes": "1.5M",
+                "comments":"100k"
+            },
+            {
+                "image": "https://filmfare.wwmindia.com/content/2023/may/salmankhan11683114119.jpg",
+                "likes": "2.5M",
+                "comments":"200k"
+            },
+            {
+                "image": "https://filmfare.wwmindia.com/content/2023/may/salmankhan11683114119.jpg",
+                "likes": "1.5M",
+                "comments":"100k"
+            }
+        ]
+    }
+}
